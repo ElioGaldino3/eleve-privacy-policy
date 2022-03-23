@@ -1,0 +1,10 @@
+@import url("http://fonts.cdnfonts.com/css/roboto");
+body {
+  width: 100vw;
+  font-family: "Roboto", sans-serif;
+}
+
+.content {
+  max-width: 800px;
+  margin: auto;
+}
